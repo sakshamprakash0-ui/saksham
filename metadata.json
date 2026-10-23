@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Auto 3D",
+  "description": "Playable 3D open-world Indian auto-rickshaw driving and life simulator set in Tri Nagar and KV Keshav Puram, Delhi featuring Harsh and Kuldeep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
